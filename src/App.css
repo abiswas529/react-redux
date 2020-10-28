@@ -1,3 +1,4 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
 .App {
   text-align: center;
 }
@@ -35,4 +36,15 @@
   to {
     transform: rotate(360deg);
   }
+}
+.imgClass {
+  width: 40px;
+  height: 40px;
+}
+.text-middle {
+  text-align: center;
+  vertical-align: middle;
+}
+.table-background {
+  background-color: antiquewhite;
 }
